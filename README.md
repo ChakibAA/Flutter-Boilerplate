@@ -4,7 +4,7 @@ This Flutter boilerplate project provides a well-structured foundation for your 
 
 ## Table of Contents
 
-- [Packages / Plugins](#featuPackages-/-Pluginsres)
+- [Packages / Plugins](#featuPackages--Pluginsres)
 - [Project Structure](#project-structure)
 
 ## Packages / Plugins
